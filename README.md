@@ -156,43 +156,73 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ## Repositories (Stack-Wise)
 
 ### Web
-- [PagePalette](https://github.com/iiitl/PagePalette) (Unique-PR)- Gaurav
-- [jikan-rs](https://gitHub.com/iiitl/jikan-rs) (Unique-PR) - Siddharth
-- [bmi_calculator](https://github.com/iiitl/bmi_calculator) (Multiple-pr) - Imrana
-- [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
-- [student-hub](https://github.com/iiitl/student-hub) (Unique-PR & Special Repo)- Om, Maneesh, Aman, Aditya, Prashant
-- [store-hub](https://github.com/iiitl/StoreHUB) (Unique-PR)- RishiRaj
-- [Stuconnect](https://github.com/iiitl/Stuconnect) (Multiple-pr) - Jovial
+
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [PlanWise](https://github.com/Sky-walkerX/PlanWise) | Naman Khandelwal | TBD |
+| [mintlify-docs](https://github.com/Sky-walkerX/mintlify-docs) | Naman Khandelwal | TBD |
+| [Zonic](https://github.com/Sky-walkerX/Zonic) | Naman Khandelwal | TBD |
+| [insane-vitepress](https://github.com/In-Saiyan/insane-vitepress) | Aryan Singh | TBD |
+| [AlgoJudge](https://github.com/In-Saiyan/AlgoJudge) | Aryan Singh | TBD |
+| [Opensource_Compass](https://github.com/Vedant1703/Opensource_Compass) | Vedant Kulkarni | TBD |
+| [rjagro](https://github.com/Sidharth-Singh10/rjagro) | Sidharth Singh | TBD |
+| [CargoCut](https://github.com/Sidharth-Singh10/CargoCut) | Sidharth Singh | TBD |
+| [StonkSchool](https://github.com/Sidharth-Singh10/StonkSchool) | Sidharth Singh | TBD |
+| [yt-music-tauri](https://github.com/thunder-blaze/yt-music-tauri) | Thunderblaze | TBD |
+| [NewTab-Overdrive](https://github.com/Thunder-Blaze/NewTab-Overdrive) | Thunderblaze | TBD |
+| [Cp_Discord_Bot](https://github.com/Thunder-Blaze/Cp_Discord_Bot) | Thunderblaze | TBD |
+| [ChatterBox](https://github.com/M-ayank2005/ChatterBox) | Mayank | TBD |
 
 ---
 
 ### FOSS
-- [affinity-bot](https://gitHub.com/iiitl/affinity-bot) - Sidharth
-- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) (Multiple-PR) - Imrana and Sidharth (Bash)
+
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [OxiDock](https://github.com/Sidharth-Singh10/OxiDock) | Sidharth Singh | TBD |
+| [PerOXO](https://github.com/Sidharth-Singh10/PerOXO) | Sidharth Singh | TBD |
+| [Shadowlock](https://github.com/Sidharth-Singh10/Shadowlock) | Sidharth Singh | TBD |
+| [ScreenExtractor](https://github.com/gauravghodinde/ScreenExtractor) | Gaurav Ghodinde | TBD |
+| [warp](https://github.com/gauravghodinde/warp) | Gaurav Ghodinde | TBD |
+| [chuck](https://github.com/Aaryan-Dadu/chuck) | Aaryan Dadu | TBD |
+| [cp-rs](https://github.com/In-saiyan/cp-rs) | Insane | TBD |
+| [anilist_moe](https://github.com/Thunder-Blaze/anilist_moe) | Thunder-Blaze | TBD |
 
 ---
 
 ### App
-- [Sneakers](https://github.com/iiitl/Sneakers) -(Unique-PR) Gaurav
-- [Attendence(Java)](https://github.com/iiitl/Attendance) -(Unique-PR) Ayush
-- [MessEase](http://github.com/iiitl/MessEase) (Unique-PR & Special Repo) - Ayush
-- [foodify4.5](https://github.com/iiitl/foodify4.5) (Multiple-PR) - Sagilinithin
-- [College-Fix-It](https://github.com/iiitl/College-Fix-It) (Unique-PR)-Tanish Moral
-- [NeatNote](https://github.com/iiitl/NeatNote) -(Unique-PR) Safiya Nasir
+
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [CodeForces](https://github.com/Kishan8548/CodeForces) | Kishan | TBD |
+| [Wanderlens](https://github.com/Kishan8548/Wanderlens) | Kishan | TBD |
+| [StocksApp](https://github.com/mdanasaliusmani/StocksApp) | Md Anas Ali Usmani | TBD |
+| [Student-Hub-App](https://github.com/namanhere23/Student-Hub-App) | Naman Gulati | TBD |
+| [Tap2Eat](https://github.com/namanhere23/Tap2Eat) | Naman Gulati | TBD |
+| [CForge](https://github.com/Sandesh282/CForge) | Sandesh | TBD |
 
 ---
 
 ### ML
-- [Classification-ml](https://github.com/iiitl/Classification-ml) (Multiple-PR)- Pratham
-- [Regression](https://github.com/iiitl/Regression-25) (Multiple-PR)- Tanmay
-- [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML)(Multiple-PR) - Vaibhav
+
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [Linear-Regression](https://github.com/ayanokojix21/Linear-Regression) | Nishchal | TBD |
+| [Logistic-Regression](https://github.com/ayanokojix21/Logistic-Regression) | Nishchal | TBD |
+| [pygame-arcade](https://github.com/merintheres/pygame-arcade) | Merin | TBD |
+| [Local-Link](https://github.com/M-ayank2005/Local-Link) | Mayank | TBD |
+| [smartdoc-workshop](https://github.com/Rushild25/smartdoc-workshop) | Rushil | TBD |
+| [EDA-IPL](https://github.com/Sanjana-chennu/EDA-IPL) | Sanjana | TBD |
+| [Decision-Tree](https://github.com/vennelavarshini18/Decision-Tree) | Vennela | TBD |
+| [K-Means-Clustering](https://github.com/vennelavarshini18/K-Means-Clustering) | Vennela | TBD |
+| [Neural-Networks](https://github.com/vennelavarshini18/Neural-Networks) | Vennela | TBD |
 ---
 
 ### Web3
-- [contract-combat-web3](https://github.com/iiitl/contract-combat-web3) -(Multiple-PR) Raj Shukla (Main)
-- [crowdRaise-educhain](https://github.com/iiitl/crowdRaise-educhain) -(Multiple-PR) Raj and Vishal
 
----
-
-### Infosec (Website)
-- [SequriQuest](https://github.com/iiitl/SequriQuest) (Unique-PR & Special Repo)- Arshia Adhya, Om Swami and Gagan Mishra
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [apexsolana](https://github.com/Janmesh23/apexsolana) | Janmesh | TBD |
+| [BountyRaffle](https://github.com/Kaustubh-1-7/BountyRaffle) | Kaustubh | TBD |
+| [decentralized-uptime-monitoring](https://github.com/datmedevil17/decentralized-uptime-monitoring) | Raj | TBD |
+| [CTNFT](https://github.com/In-Saiyan/CTNFT) | Insane | TBD |
