@@ -224,6 +224,8 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
 | [Drishya](https://github.com/iiitl/Drishya) | Ishaan | Next.js, Solidity, Ethereum |
+| [whisper](https://github.com/iiitl/whisper) | Janmesh | Next.js, Solana, Rust, IPFS |
+| [Victory-Verse](https://github.com/iiitl/Victory-Verse) | Janmesh | React, Solidity, Hardhat, Ethers.js, IPFS |
 | [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | Solidity, Foundry |
 | [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | Go, PostgreSQL, RabbitMQ |
 | [CTNFT](https://github.com/iiitl/CTNFT) | Aryan Singh | Next.js, TypeScript, Solidity |
