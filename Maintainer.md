@@ -27,12 +27,6 @@ As a maintainer, you are responsible for evaluating and assigning points to Pull
 
 It is not advisable to spend time on Exceptionally Hard unless clearly justified by implementation complexity.
 
-### Special Bonuses (One-Time Only)
-- Contribution to a Special Repo: +20 pts
-- External Repo (50+ stars): +40 pts
-- External Repo (250+ stars): +60 pts
-- External Repo (1K+ stars): +100 pts
-
 **Note:** External repo bonuses apply only to Easy-Medium difficulty issues or higher. Very Easy PRs in high-star repos do not qualify.
 
 ### Issue Creation
