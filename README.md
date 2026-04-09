@@ -63,8 +63,6 @@ Points are awarded based on the difficulty of the Pull Request (PR). The difficu
 
 It is not advisable to spend time on Exceptionally Hard unless you know what you are doing.
 
-**Note:** External repo bonuses apply only to Easy-Medium difficulty issues or higher. Very Easy PRs in high-star repos will not qualify for these bonuses.
-
 ### 2. Issue Creation
 
 - Create an issue: 5 to 15 points based on quality.
