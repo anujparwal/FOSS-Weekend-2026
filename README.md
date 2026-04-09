@@ -159,18 +159,19 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [PlanWise](https://github.com/iiitl/PlanWise) | Naman Khandelwal | TBD |
-| [mintlify-docs](https://github.com/iiitl/mintlify-docs) | Naman Khandelwal | TBD |
-| [Zonic](https://github.com/iiitl/Zonic) | Naman Khandelwal | TBD |
-| [insane-vitepress](https://github.com/iiitl/insane-vitepress) | Aryan Singh | TBD |
-| [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | TBD |
-| [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | TBD |
-| [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | TBD |
-| [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | TBD |
-| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Thunderblaze | TBD |
-| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Thunderblaze | TBD |
-| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Thunderblaze | TBD |
-| [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | TBD |
+| [PlanWise](https://github.com/iiitl/PlanWise) | Naman Khandelwal | Next.js, TypeScript, Prisma |
+| [mintlify-docs](https://github.com/iiitl/mintlify-docs) | Naman Khandelwal | Mintlify, MDX, Node.js |
+| [Zonic](https://github.com/iiitl/Zonic) | Naman Khandelwal | React, Node.js, Express |
+| [insane-vitepress](https://github.com/iiitl/insane-vitepress) | Aryan Singh | VitePress, Vue, Node.js |
+| [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | Rust, Docker |
+| [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | Next.js, Go, Docker |
+| [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | Rust, PostgreSQL, Redis |
+| [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | Next.js, TypeScript |
+| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Thunderblaze | Tauri, Rust, JavaScript |
+| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Thunderblaze | Next.js, TypeScript, MongoDB |
+| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Thunderblaze | Node.js, Discord API |
+| [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | Next.js, Go, MongoDB |
+| [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | Next.js, Node.js, MongoDB |
 
 ---
 
@@ -178,15 +179,15 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [OxiDock](https://github.com/iiitl/OxiDock) | Sidharth Singh | TBD |
-| [PerOXO](https://github.com/iiitl/PerOXO) | Sidharth Singh | TBD |
-| [Shadowlock](https://github.com/iiitl/Shadowlock) | Sidharth Singh | TBD |
-| [ScreenExtractor](https://github.com/iiitl/ScreenExtractor) | Gaurav Ghodinde | TBD |
-| [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | TBD |
-| [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | TBD |
-| [cp-rs](https://github.com/iiitl/cp-rs) | Insane | TBD |
-| [anilist_moe](https://github.com/iiitl/anilist_moe) | Thunder-Blaze | TBD |
-| [pygame-arcade](https://github.com/iiitl/pygame-arcade) | Merin | TBD |
+| [OxiDock](https://github.com/iiitl/OxiDock) | Sidharth Singh | Tauri, Rust, React |
+| [PerOXO](https://github.com/iiitl/PerOXO) | Sidharth Singh | Rust, RabbitMQ |
+| [Shadowlock](https://github.com/iiitl/Shadowlock) | Sidharth Singh | Rust |
+| [ScreenExtractor](https://github.com/iiitl/ScreenExtractor) | Gaurav Ghodinde | Go, Python, Next.js |
+| [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | Go |
+| [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | Python, C++ |
+| [cp-rs](https://github.com/iiitl/cp-rs) | Insane | Rust |
+| [anilist_moe](https://github.com/iiitl/anilist_moe) | Thunder-Blaze | Rust |
+| [pygame-arcade](https://github.com/iiitl/pygame-arcade) | Merin | Python, Pygame |
 
 ---
 
@@ -194,12 +195,12 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [CodeForces](https://github.com/iiitl/CodeForces) | Kishan | TBD |
-| [Wanderlens](https://github.com/iiitl/Wanderlens) | Kishan | TBD |
-| [StocksApp](https://github.com/iiitl/StocksApp) | Md Anas Ali Usmani | TBD |
-| [Student-Hub-App](https://github.com/iiitl/Student-Hub-App) | Naman Gulati | TBD |
-| [Tap2Eat](https://github.com/iiitl/Tap2Eat) | Naman Gulati | TBD |
-| [CForge](https://github.com/iiitl/CForge) | Sandesh | TBD |
+| [CodeForces](https://github.com/iiitl/CodeForces) | Kishan | Kotlin, Android SDK |
+| [Wanderlens](https://github.com/iiitl/Wanderlens) | Kishan | Kotlin, Firebase |
+| [StocksApp](https://github.com/iiitl/StocksApp) | Md Anas Ali Usmani | Kotlin, Android SDK |
+| [Student-Hub-App](https://github.com/iiitl/Student-Hub-App) | Naman Gulati | Kotlin, Firebase |
+| [Tap2Eat](https://github.com/iiitl/Tap2Eat) | Naman Gulati | Kotlin, Firebase, Node.js |
+| [CForge](https://github.com/iiitl/CForge) | Sandesh | Swift, SwiftUI |
 
 ---
 
@@ -207,21 +208,20 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [Linear-Regression](https://github.com/iiitl/Linear-Regression) | Nishchal | TBD |
-| [Logistic-Regression](https://github.com/iiitl/Logistic-Regression) | Nishchal | TBD |
-| [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | TBD |
-| [smartdoc-workshop](https://github.com/iiitl/smartdoc-workshop) | Rushil | TBD |
-| [EDA-IPL](https://github.com/iiitl/EDA-IPL) | Sanjana | TBD |
-| [Decision-Tree](https://github.com/iiitl/Decision-Tree) | Vennela | TBD |
-| [K-Means-Clustering](https://github.com/iiitl/K-Means-Clustering) | Vennela | TBD |
-| [Neural-Networks](https://github.com/iiitl/Neural-Networks) | Vennela | TBD |
+| [Linear-Regression](https://github.com/iiitl/Linear-Regression) | Nishchal | Python, NumPy |
+| [Logistic-Regression](https://github.com/iiitl/Logistic-Regression) | Nishchal | Python, NumPy |
+| [smartdoc-workshop](https://github.com/iiitl/smartdoc-workshop) | Rushil | Python, FastAPI |
+| [EDA-IPL](https://github.com/iiitl/EDA-IPL) | Sanjana | Python, Pandas |
+| [Decision-Tree](https://github.com/iiitl/Decision-Tree) | Vennela | Python, NumPy |
+| [K-Means-Clustering](https://github.com/iiitl/K-Means-Clustering) | Vennela | Python, NumPy |
+| [Neural-Networks](https://github.com/iiitl/Neural-Networks) | Vennela | Python, NumPy |
 ---
 
 ### Web3
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [apexsolana](https://github.com/iiitl/apexsolana) | Janmesh | TBD |
-| [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | TBD |
-| [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | TBD |
-| [CTNFT](https://github.com/iiitl/CTNFT) | Insane | TBD |
+| [Drishya](https://github.com/iiitl/Drishya) | Ishaan | Next.js, Solidity, Ethereum |
+| [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | Solidity, Foundry |
+| [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | Go, PostgreSQL, RabbitMQ |
+| [CTNFT](https://github.com/iiitl/CTNFT) | Insane | Next.js, TypeScript, Solidity |
