@@ -167,9 +167,9 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | Next.js, Go, Docker |
 | [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | Rust, PostgreSQL, Redis |
 | [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | Next.js, TypeScript |
-| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Thunderblaze | Tauri, Rust, JavaScript |
-| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Thunderblaze | Next.js, TypeScript, MongoDB |
-| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Thunderblaze | Node.js, Discord API |
+| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Shivansh Jain | Tauri, Rust, JavaScript |
+| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Shivansh Jain | Next.js, TypeScript, MongoDB |
+| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Shivansh Jain | Node.js, Discord API |
 | [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | Next.js, Go, MongoDB |
 | [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | Next.js, Node.js, MongoDB |
 
@@ -185,8 +185,8 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [ScreenExtractor](https://github.com/iiitl/ScreenExtractor) | Gaurav Ghodinde | Go, Python, Next.js |
 | [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | Go |
 | [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | Python, C++ |
-| [cp-rs](https://github.com/iiitl/cp-rs) | Insane | Rust |
-| [anilist_moe](https://github.com/iiitl/anilist_moe) | Thunder-Blaze | Rust |
+| [cp-rs](https://github.com/iiitl/cp-rs) | Aryan Singh | Rust |
+| [anilist_moe](https://github.com/iiitl/anilist_moe) | Shivansh Jain | Rust |
 | [pygame-arcade](https://github.com/iiitl/pygame-arcade) | Merin | Python, Pygame |
 
 ---
@@ -215,6 +215,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [Decision-Tree](https://github.com/iiitl/Decision-Tree) | Vennela | Python, NumPy |
 | [K-Means-Clustering](https://github.com/iiitl/K-Means-Clustering) | Vennela | Python, NumPy |
 | [Neural-Networks](https://github.com/iiitl/Neural-Networks) | Vennela | Python, NumPy |
+
 ---
 
 ### Web3
@@ -224,4 +225,4 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [Drishya](https://github.com/iiitl/Drishya) | Ishaan | Next.js, Solidity, Ethereum |
 | [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | Solidity, Foundry |
 | [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | Go, PostgreSQL, RabbitMQ |
-| [CTNFT](https://github.com/iiitl/CTNFT) | Insane | Next.js, TypeScript, Solidity |
+| [CTNFT](https://github.com/iiitl/CTNFT) | Aryan Singh | Next.js, TypeScript, Solidity |
