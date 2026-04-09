@@ -60,18 +60,9 @@ Points are awarded based on the difficulty of the Pull Request (PR). The difficu
 
 It is not advisable to spend time on Exceptionally Hard unless you know what you are doing.
 
-### 2. Special Bonuses (One-Time Only)
-
-Participants can earn a one-time bonus for contributing to external or high-impact repositories (once for special and once for external):
-
-- Contribution to a Special Repo: +20 pts
-- External Repo (50+ stars): +40 pts
-- External Repo (250+ stars): +60 pts
-- External Repo (1K+ stars): +100 pts
-
 **Note:** External repo bonuses apply only to Easy-Medium difficulty issues or higher. Very Easy PRs in high-star repos will not qualify for these bonuses.
 
-### 3. Issue Creation
+### 2. Issue Creation
 
 - Create an issue: 5 to 15 points based on quality.
 - Penalty: Points will be deducted for useless or spam issues.
