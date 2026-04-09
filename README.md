@@ -159,19 +159,18 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [PlanWise](https://github.com/Sky-walkerX/PlanWise) | Naman Khandelwal | TBD |
-| [mintlify-docs](https://github.com/Sky-walkerX/mintlify-docs) | Naman Khandelwal | TBD |
-| [Zonic](https://github.com/Sky-walkerX/Zonic) | Naman Khandelwal | TBD |
-| [insane-vitepress](https://github.com/In-Saiyan/insane-vitepress) | Aryan Singh | TBD |
-| [AlgoJudge](https://github.com/In-Saiyan/AlgoJudge) | Aryan Singh | TBD |
-| [Opensource_Compass](https://github.com/Vedant1703/Opensource_Compass) | Vedant Kulkarni | TBD |
-| [rjagro](https://github.com/Sidharth-Singh10/rjagro) | Sidharth Singh | TBD |
-| [CargoCut](https://github.com/Sidharth-Singh10/CargoCut) | Sidharth Singh | TBD |
-| [StonkSchool](https://github.com/Sidharth-Singh10/StonkSchool) | Sidharth Singh | TBD |
-| [yt-music-tauri](https://github.com/thunder-blaze/yt-music-tauri) | Thunderblaze | TBD |
-| [NewTab-Overdrive](https://github.com/Thunder-Blaze/NewTab-Overdrive) | Thunderblaze | TBD |
-| [Cp_Discord_Bot](https://github.com/Thunder-Blaze/Cp_Discord_Bot) | Thunderblaze | TBD |
-| [ChatterBox](https://github.com/M-ayank2005/ChatterBox) | Mayank | TBD |
+| [PlanWise](https://github.com/iiitl/PlanWise) | Naman Khandelwal | TBD |
+| [mintlify-docs](https://github.com/iiitl/mintlify-docs) | Naman Khandelwal | TBD |
+| [Zonic](https://github.com/iiitl/Zonic) | Naman Khandelwal | TBD |
+| [insane-vitepress](https://github.com/iiitl/insane-vitepress) | Aryan Singh | TBD |
+| [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | TBD |
+| [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | TBD |
+| [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | TBD |
+| [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | TBD |
+| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Thunderblaze | TBD |
+| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Thunderblaze | TBD |
+| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Thunderblaze | TBD |
+| [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | TBD |
 
 ---
 
@@ -179,14 +178,15 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [OxiDock](https://github.com/Sidharth-Singh10/OxiDock) | Sidharth Singh | TBD |
-| [PerOXO](https://github.com/Sidharth-Singh10/PerOXO) | Sidharth Singh | TBD |
-| [Shadowlock](https://github.com/Sidharth-Singh10/Shadowlock) | Sidharth Singh | TBD |
-| [ScreenExtractor](https://github.com/gauravghodinde/ScreenExtractor) | Gaurav Ghodinde | TBD |
-| [warp](https://github.com/gauravghodinde/warp) | Gaurav Ghodinde | TBD |
-| [chuck](https://github.com/Aaryan-Dadu/chuck) | Aaryan Dadu | TBD |
-| [cp-rs](https://github.com/In-saiyan/cp-rs) | Insane | TBD |
-| [anilist_moe](https://github.com/Thunder-Blaze/anilist_moe) | Thunder-Blaze | TBD |
+| [OxiDock](https://github.com/iiitl/OxiDock) | Sidharth Singh | TBD |
+| [PerOXO](https://github.com/iiitl/PerOXO) | Sidharth Singh | TBD |
+| [Shadowlock](https://github.com/iiitl/Shadowlock) | Sidharth Singh | TBD |
+| [ScreenExtractor](https://github.com/iiitl/ScreenExtractor) | Gaurav Ghodinde | TBD |
+| [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | TBD |
+| [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | TBD |
+| [cp-rs](https://github.com/iiitl/cp-rs) | Insane | TBD |
+| [anilist_moe](https://github.com/iiitl/anilist_moe) | Thunder-Blaze | TBD |
+| [pygame-arcade](https://github.com/iiitl/pygame-arcade) | Merin | TBD |
 
 ---
 
@@ -194,12 +194,12 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [CodeForces](https://github.com/Kishan8548/CodeForces) | Kishan | TBD |
-| [Wanderlens](https://github.com/Kishan8548/Wanderlens) | Kishan | TBD |
-| [StocksApp](https://github.com/mdanasaliusmani/StocksApp) | Md Anas Ali Usmani | TBD |
-| [Student-Hub-App](https://github.com/namanhere23/Student-Hub-App) | Naman Gulati | TBD |
-| [Tap2Eat](https://github.com/namanhere23/Tap2Eat) | Naman Gulati | TBD |
-| [CForge](https://github.com/Sandesh282/CForge) | Sandesh | TBD |
+| [CodeForces](https://github.com/iiitl/CodeForces) | Kishan | TBD |
+| [Wanderlens](https://github.com/iiitl/Wanderlens) | Kishan | TBD |
+| [StocksApp](https://github.com/iiitl/StocksApp) | Md Anas Ali Usmani | TBD |
+| [Student-Hub-App](https://github.com/iiitl/Student-Hub-App) | Naman Gulati | TBD |
+| [Tap2Eat](https://github.com/iiitl/Tap2Eat) | Naman Gulati | TBD |
+| [CForge](https://github.com/iiitl/CForge) | Sandesh | TBD |
 
 ---
 
@@ -207,22 +207,21 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [Linear-Regression](https://github.com/ayanokojix21/Linear-Regression) | Nishchal | TBD |
-| [Logistic-Regression](https://github.com/ayanokojix21/Logistic-Regression) | Nishchal | TBD |
-| [pygame-arcade](https://github.com/merintheres/pygame-arcade) | Merin | TBD |
-| [Local-Link](https://github.com/M-ayank2005/Local-Link) | Mayank | TBD |
-| [smartdoc-workshop](https://github.com/Rushild25/smartdoc-workshop) | Rushil | TBD |
-| [EDA-IPL](https://github.com/Sanjana-chennu/EDA-IPL) | Sanjana | TBD |
-| [Decision-Tree](https://github.com/vennelavarshini18/Decision-Tree) | Vennela | TBD |
-| [K-Means-Clustering](https://github.com/vennelavarshini18/K-Means-Clustering) | Vennela | TBD |
-| [Neural-Networks](https://github.com/vennelavarshini18/Neural-Networks) | Vennela | TBD |
+| [Linear-Regression](https://github.com/iiitl/Linear-Regression) | Nishchal | TBD |
+| [Logistic-Regression](https://github.com/iiitl/Logistic-Regression) | Nishchal | TBD |
+| [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | TBD |
+| [smartdoc-workshop](https://github.com/iiitl/smartdoc-workshop) | Rushil | TBD |
+| [EDA-IPL](https://github.com/iiitl/EDA-IPL) | Sanjana | TBD |
+| [Decision-Tree](https://github.com/iiitl/Decision-Tree) | Vennela | TBD |
+| [K-Means-Clustering](https://github.com/iiitl/K-Means-Clustering) | Vennela | TBD |
+| [Neural-Networks](https://github.com/iiitl/Neural-Networks) | Vennela | TBD |
 ---
 
 ### Web3
 
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
-| [apexsolana](https://github.com/Janmesh23/apexsolana) | Janmesh | TBD |
-| [BountyRaffle](https://github.com/Kaustubh-1-7/BountyRaffle) | Kaustubh | TBD |
-| [decentralized-uptime-monitoring](https://github.com/datmedevil17/decentralized-uptime-monitoring) | Raj | TBD |
-| [CTNFT](https://github.com/In-Saiyan/CTNFT) | Insane | TBD |
+| [apexsolana](https://github.com/iiitl/apexsolana) | Janmesh | TBD |
+| [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | TBD |
+| [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | TBD |
+| [CTNFT](https://github.com/iiitl/CTNFT) | Insane | TBD |
