@@ -21,7 +21,7 @@ Points will be allocated and reflected on this [leaderboard](https://leaderboard
 ## Instructions
 > [!NOTE]
 > Read the [AI Usage Policy](Ai_usage.md). 
-> We welcome the use of AI tools as assistants, but you remain fully responsible for your contributions. You must understand the code you submit, ensure it meets our quality standards, and explicitly disclose any AI assistance.
+> We explicitly don't welcome the use of AI tools as assistants, but if you do, then remain fully responsible for your contributions. You must understand the code you submit, ensure it meets our quality standards, and explicitly disclose any AI assistance.
 
 1. **Fork and Clone** the repositories you want to work on.
 2. **Create a new branch** and work there before submitting a pull request.
