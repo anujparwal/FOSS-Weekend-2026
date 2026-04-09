@@ -165,6 +165,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [insane-vitepress](https://github.com/iiitl/insane-vitepress) | Aryan Singh | VitePress, Vue, Node.js |
 | [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | Rust, Docker |
 | [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | Next.js, Go, Docker |
+| [Breach Battle](https://github.com/iiitl/breach-battle) | Aaryan Dadu | Next.js, TypeScript |
 | [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | Rust, PostgreSQL, Redis |
 | [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | Next.js, TypeScript |
 | [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Shivansh Jain | Tauri, Rust, JavaScript |
