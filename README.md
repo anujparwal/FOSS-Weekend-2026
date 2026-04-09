@@ -19,6 +19,8 @@ Points will be allocated and reflected on this [leaderboard](https://leaderboard
 
 
 ## Instructions
+> [!NOTE]
+> Read the [AI Usage Policy](Ai_usage.md)
 
 1. **Fork and Clone** the repositories you want to work on.
 2. **Create a new branch** and work there before submitting a pull request.
