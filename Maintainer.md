@@ -5,6 +5,11 @@
 - Start: **10th April 2026, 00:00**
 - End: **12th April 2026, 23:59**
 
+## Leaderboard System
+- The leaderboard is maintained by tags.
+- Once a PR is accepted, the maintainer **must** add a label in the format: `accepted-'points here'` (e.g., `accepted-30`).
+- The label must be in **lowercase** so that the leaderboard bot can pick it up correctly.
+
 ## PR Point System
 
 As a maintainer, you are responsible for evaluating and assigning points to Pull Requests (PRs) based on the following system:
@@ -66,11 +71,6 @@ Repositories will be divided into two categories:
    - **Multiple-PR repositories**: No assignment required and no time limit
 - If the maintainer finds that a contributor has done good work and needs more time, they can extend the deadline by commenting `/extend-'time in hrs here'` (e.g., `/extend-2`).
 - **Note**: Extend time only when necessary.
-
-## Leaderboard System
-- The leaderboard is maintained by tags.
-- Once a PR is accepted, the maintainer **must** add a label in the format: `accepted-'points here'` (e.g., `accepted-30`).
-- The label must be in **lowercase** so that the leaderboard bot can pick it up correctly.
 
 ## Maintainer Responsibilities:
 1. **Review PRs Promptly**: Ensure PRs are reviewed in a timely manner.
