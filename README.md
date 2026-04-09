@@ -150,7 +150,9 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ---
 ## MUST DO
 ### Git Practice (Multiple-PR)
-- [Git-Practice-weekend-25](https://github.com/iiitl/git-practice-weekend-2025) - FOSS WING
+- [Git-Repo-2026](https://github.com/iiitl/Git-Repo-2026) - FOSS WING
+### Bash Practice (Multiple-PR)
+- [Bash-Repo-2026](https://github.com/iiitl/Bash-Repo-2026) - FOSS WING
 ---
 
 ## Repositories (Stack-Wise)
