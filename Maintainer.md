@@ -14,6 +14,8 @@
 
 ### **1. Basic (5 pts)**
 
+![NOTE] Reserved for Git and Bash Repo
+
 **Scope:** Learning-level or trivial changes
 
 **Effort:** 5–20 minutes
