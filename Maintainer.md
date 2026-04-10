@@ -12,22 +12,147 @@
 
 ## PR Point System
 
-As a maintainer, you are responsible for evaluating and assigning points to Pull Requests (PRs) based on the following system:
+### **1. Basic (5 pts)**
 
-### Base Points (Internal and General Repos):
-| Difficulty | Description | Points |
-| :-- | :-- | :-- |
-| Basic | Basics (Bash practice, Git drills, docs) | 5 pts |
-| Very Easy | General repo fixes, very simple UI tweaks | 15 pts |
-| Easy | Simple to implement UI tweaks and minor bug fixes | 30 pts |
-| Medium | Feature implementation, logic fixes | 45 pts |
-| Hard | Complex refactoring, core logic | 60 pts |
-| Very Hard | Performance optimization, major features | 70 pts |
-| Exceptionally Hard | Reimplementation or rewriting certain modules of large scale projects | 80+ pts |
+**Scope:** Learning-level or trivial changes
+
+**Effort:** 5–20 minutes
+
+**Requirements:**
+
+* No real logic implementation
+* No understanding of project architecture needed
+* Minimal or no testing required
+
+**Examples:**
+
+* Fixing typos in docs
+* Running predefined scripts (e.g., Bash practice)
+* Formatting files (README, comments)
+
+---
+
+### **2. Very Easy (15 pts)**
+
+**Scope:** Extremely small code changes
+
+**Effort:** 15–45 minutes
+
+**Requirements:**
+
+* Change limited to 1–2 files
+* No new logic, only minor edits
+* No dependency or architecture understanding required
+
+**Examples:**
+
+* Fixing UI text or alignment
+* Updating config values
+* Minor styling fixes (CSS, Tailwind tweaks)
+
+---
+
+### **3. Easy (30 pts)**
+
+**Scope:** Small feature or bug fix
+
+**Effort:** 1–2 hours
+
+**Requirements:**
+
+* Basic understanding of the codebase
+* Small logic addition or modification
+* Limited to a single module/component
+
+**Examples:**
+
+* Adding a simple button with functionality
+* Fixing a minor bug in logic
+* Handling a simple API response
+
+---
+
+### **4. Medium (45 pts)**
+
+**Scope:** Standard feature development
+
+**Effort:** 2–5 hours
+
+**Requirements:**
+
+* Requires understanding of module-level architecture
+* Involves multiple files/components
+* May include state handling, API integration, or validation
+
+**Examples:**
+
+* Implementing a complete feature (CRUD, filters, etc.)
+* Fixing non-trivial bugs affecting functionality
+* Writing reusable components
+
+---
+
+### **5. Hard (60 pts)**
+
+**Scope:** Complex logic or refactoring
+
+**Effort:** 5–10 hours
+
+**Requirements:**
+
+* Deep understanding of the codebase
+* Cross-module changes
+* Must consider edge cases and performance
+
+**Examples:**
+
+* Refactoring existing modules without breaking behavior
+* Implementing non-trivial algorithms
+* Fixing complex bugs with unclear root cause
+
+---
+
+### **6. Very Hard (70 pts)**
+
+**Scope:** Advanced system-level work
+
+**Effort:** 10–20 hours
+
+**Requirements:**
+
+* Strong architectural understanding
+* Performance considerations required
+* May involve concurrency, optimization, or system design
+
+**Examples:**
+
+* Optimizing slow queries or rendering
+* Designing scalable features
+* Handling large data processing efficiently
+
+---
+
+### **7. Exceptionally Hard (80+ pts)**
+
+**Scope:** Major system changes or redesign
+
+**Effort:** 20+ hours
+
+**Requirements:**
+
+* Full understanding of the project architecture
+* High risk of breaking existing functionality
+* Requires planning, design, and testing
+
+**Examples:**
+
+* Rewriting core modules
+* Migrating to a new architecture or framework
+* Implementing large-scale features affecting multiple systems
+
+---
 
 It is not advisable to spend time on Exceptionally Hard unless clearly justified by implementation complexity.
-
-**Note:** External repo bonuses apply only to Easy-Medium difficulty issues or higher. Very Easy PRs in high-star repos do not qualify.
 
 ### Issue Creation
 - Create an issue: 5 to 15 points based on quality.
