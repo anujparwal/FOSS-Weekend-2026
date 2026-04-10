@@ -152,6 +152,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
 | [Student-Hub](https://github.com/iiitl/student-hub) | Om Swami | Next.js, TypeScript, MongoDB |
+| [Alumni](https://github.com/iiitl/alumni) | Om Swami | Next.js, TypeScript, MongoDB |
 | [MessEase](https://github.com/iiitl/MessEase) | Ayush Yadav | Kotlin, Firebase |
 
 ## Repositories (Stack-Wise)
