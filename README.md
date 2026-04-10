@@ -169,12 +169,14 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [Breach Battle](https://github.com/iiitl/breach-battle) | Aaryan Dadu | Next.js, TypeScript |
 | [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | Rust, PostgreSQL, Redis |
 | [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | Next.js, TypeScript |
-| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | Shivansh Jain | Tauri, Rust, JavaScript |
-| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | Shivansh Jain | Next.js, TypeScript, MongoDB |
-| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Shivansh Jain | Node.js, Discord API |
+| [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | ThunderBlaze | Tauri, Rust, JavaScript |
+| [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | ThunderBlaze | Next.js, TypeScript, MongoDB |
+| [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | ThunderBlaze | Node.js, Discord API |
 | [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | Next.js, Go, MongoDB |
 | [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | Next.js, Node.js, MongoDB |
 | [MissionSakhi](https://github.com/iiitl/MissionSakhi) | Arham | React, Firebase, Node.js, MongoDB |
+| [Chat-App](https://github.com/iiitl/Chat-App) | Shreyansh | Go, Redis |
+| [Crate](https://github.com/iiitl/Crate) | Vaidik | React, Node.js, MongoDB |
 
 ---
 
@@ -189,7 +191,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | Go |
 | [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | Python, C++ |
 | [cp-rs](https://github.com/iiitl/cp-rs) | Aryan Singh | Rust |
-| [anilist_moe](https://github.com/iiitl/anilist_moe) | Shivansh Jain | Rust |
+| [anilist_moe](https://github.com/iiitl/anilist_moe) | ThunderBlaze | Rust, GraphQL |
 | [pygame-arcade](https://github.com/iiitl/pygame-arcade) | Merin | Python, Pygame |
 
 ---
