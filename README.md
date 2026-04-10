@@ -147,6 +147,13 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 - [Bash-Repo-2026](https://github.com/iiitl/Bash-Repo-2026) - FOSS WING
 ---
 
+## Special Repositories (Extra Points)
+
+| Repository | Owner | Tech Stack |
+| :-- | :-- | :-- |
+| [Student-Hub](https://github.com/iiitl/student-hub) | Om Swami | Next.js, TypeScript, MongoDB |
+| [MessEase](https://github.com/iiitl/MessEase) | Ayush Yadav | Kotlin, Firebase |
+
 ## Repositories (Stack-Wise)
 
 ### Web
@@ -154,7 +161,6 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | Repository | Owner | Tech Stack |
 | :-- | :-- | :-- |
 | [PlanWise](https://github.com/iiitl/PlanWise) | Naman Khandelwal | Next.js, TypeScript, Prisma |
-| [mintlify-docs](https://github.com/iiitl/mintlify-docs) | Naman Khandelwal | Mintlify, MDX, Node.js |
 | [Zonic](https://github.com/iiitl/Zonic) | Naman Khandelwal | React, Node.js, Express |
 | [insane-vitepress](https://github.com/iiitl/insane-vitepress) | Aryan Singh | VitePress, Vue, Node.js |
 | [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | Rust, Docker |
@@ -167,6 +173,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [Cp_Discord_Bot](https://github.com/iiitl/Cp_Discord_Bot) | Shivansh Jain | Node.js, Discord API |
 | [ChatterBox](https://github.com/iiitl/ChatterBox) | Mayank | Next.js, Go, MongoDB |
 | [Local-Link](https://github.com/iiitl/Local-Link) | Mayank | Next.js, Node.js, MongoDB |
+| [MissionSakhi](https://github.com/iiitl/MissionSakhi) | Arham | React, Firebase, Node.js, MongoDB |
 
 ---
 
