@@ -14,7 +14,7 @@
 
 ### **1. Basic (5 pts)**
 
-![NOTE] Reserved for Git and Bash Repo
+> ![NOTE] Reserved for Git and Bash Repo
 
 **Scope:** Learning-level or trivial changes
 
